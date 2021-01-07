@@ -1,4 +1,4 @@
-# Shame T'Face Bank page
+# CreditF'You Bank page
 
 Estava alguns dias pesquisando sobre Tailwind CSS quando decidi criar um site utilizando esse framework de utility-fist.
 Tentei me inspirar em sites de banco e cartão de crédito, tentei colocar outra cor além de lilás/roxo mas não tive pra onde fugir, this is my favorite color
