@@ -5,7 +5,7 @@ Tentei me inspirar em sites de banco e cartão de crédito, tentei colocar outra
 
 ![gifreview](https://user-images.githubusercontent.com/58120642/103488561-72e28300-4dec-11eb-8149-264243a5c8f8.gif)
 
-## Opnião básica sobre o Tailwind:
+## Opinião básica sobre o Tailwind:
 Bem, a documentação é muito boa e entendível pois estava acostumade com as classes do bootstrap então não demorou muito pra começar a colocar a mão na massa, pra quem não gosta de ficar trocando de aba HTML/CSS vai adorar pois você basicamente não precisa criar outros arquivos CSS para alteração(No bootstrap acontece muito isso).
 Uma coisa que me pegou bastante é que preciso melhorar meus conhecimentos em Javascript, pois o Tailwind requer muito de JS. 
 
