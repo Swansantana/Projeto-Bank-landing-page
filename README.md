@@ -7,7 +7,7 @@ Tentei me inspirar em sites de banco e cartão de crédito, tentei colocar outra
 
 
 ## Opinião básica sobre o Tailwind:
-Bem, a documentação é muito boa e entendível pois estava acostumade com as classes do bootstrap então não demorou muito pra começar a colocar a mão na massa, pra quem não gosta de ficar trocando de aba HTML/CSS vai adorar pois você basicamente não precisa criar outros arquivos CSS para alteração(No bootstrap acontece muito isso).
+Bem, a documentação é muito boa e entendível pois estava acostumada com as classes do bootstrap então não demorou muito pra começar a colocar a mão na massa, pra quem não gosta de ficar trocando de aba HTML/CSS vai adorar pois você basicamente não precisa criar outros arquivos CSS para alteração(No bootstrap acontece muito isso).
 Uma coisa que me pegou bastante é que preciso melhorar meus conhecimentos em Javascript, pois o Tailwind requer muito de JS. 
 
 ## Ferramentas e Linguagens:
